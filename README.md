@@ -1,5 +1,5 @@
 # wing-fighters
-Software to build functioning wing fighters
+Software to build wing fighters
 
 Fighters <br />
 Location.java <br />
