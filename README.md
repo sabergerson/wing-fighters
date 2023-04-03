@@ -1,4 +1,4 @@
-# Wing_fighters
+# wing-fighters
 Software to build functioning wing fighters
 
 Fighters <br />
